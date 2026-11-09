@@ -76,3 +76,6 @@ backend/custom.css
 # Runtime cache directories created by tests/application
 backend/preview/heic/
 backend/preview/thumbnails/
+
+# Claude Code local settings (potentially sensitive command arguments)
+**/.claude/settings.local.json
